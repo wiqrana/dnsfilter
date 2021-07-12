@@ -4,8 +4,5 @@
 255.255.255.255 broadcasthost
 ::1 localhost
 fe80::1%lo0 localhost
-
-# Wiq Filter
-
-168.140.179.49       roam.iag.com.au
-168.140.179.49       www.roam.iag.com.au
+168.140.179.49 roam.iag.com.au
+168.140.179.49 www.roam.iag.com.au
